@@ -8,8 +8,13 @@ concerning 9th graders at Thomas High School.
 
 ## Results
 
-Here is an image of the District Summary dataframe:
+Here is an image of the District Summary dataframe before the data was repurposed because of academic dishonesty:
 
 ![District Summary](https://github.com/Kyle2Miles93/School_District_Analysis/blob/main/District_Summary_Dataframe.png)
+
+Here is a photo of the summary of schools analytics after the data was changed:
+
+![Per_school Summary]()
+
 
 
