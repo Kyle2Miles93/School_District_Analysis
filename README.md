@@ -20,6 +20,8 @@ The average math scores, reading scores, as well as the overall passing rates ch
 
 ![Thomas High School new metrics](https://github.com/Kyle2Miles93/School_District_Analysis/blob/main/Thomas%20High%20School%20NEW.png)
 
+## Summary
+
 The math scores, reading scores, and overall passing rates for both **Math** and **Reading**  for Thomas High School increased significantly when the 9th graders were excluded from the data.
 Relative to other schools, they excel in both categories, in the 90s for each subject. 
 Both their scores and their percentages compared to others are in the top five highest when the data was excluded.
